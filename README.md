@@ -38,6 +38,7 @@ Thanks goes out to [vsouza](https://github.com/vsouza) for the inspiration of hi
 	* [CouchDB](#couchdb)
 	* [Redis](#redis)
 	* [FileMaker](#filemaker)
+	* [Neo4j](#neo4j)
 * [ORM](#orm)
 * [Web Server Connectivity](#web-server-connectivity)
 	* [HTTP](#http-libraries)
@@ -238,6 +239,10 @@ Server Side Swift frameworks are projects that provide an infrastructure with wh
 ### FileMaker
 
 * [Perfect Filemaker connector](https://github.com/PerfectlySoft/Perfect-FileMaker) - A stand-alone Swift wrapper around the FileMaker XML Web publishing interface.
+
+### Neo4j
+
+* [Theo - The Neo4j Swift Driver](https://github.com/graphstory/neo4j-ios) - Pure Swift client for interacting with Neo4j, for iOS, Linux and macOS ([example iOS app](https://github.com/niklassaers/theo-example))
 
 ## ORM
 
